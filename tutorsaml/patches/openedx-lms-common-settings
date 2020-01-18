@@ -1,0 +1,1 @@
+THIRD_PARTY_AUTH_BACKENDS = "third_party_auth.saml.SAMLAuthBackend"
