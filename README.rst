@@ -28,6 +28,11 @@ then
     ./manage.py lms saml --pull --settings=tutor.production
 
 
+Credits
+-------
+
+https://discuss.overhang.io/t/sso-missing-backends-how-do-i-enable-them/251/5
+
 License
 -------
 
