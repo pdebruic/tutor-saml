@@ -18,11 +18,13 @@ Usage
 then
 
 ::
+
     tutor local run lms bash
 
 then
 
 ::  
+
     ./manage.py lms saml --pull --settings=tutor.production
 
 
